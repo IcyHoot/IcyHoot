@@ -1,7 +1,3 @@
-<div align="center">
-  <img height="200" src="https://imgflip.com/i/9vwaed"/>
-</div>
-
 ###
 
 <h1 align="center">👋 Olá! Eu sou o Ryan Vieira!</h1>
