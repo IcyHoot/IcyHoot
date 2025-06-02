@@ -1,6 +1,6 @@
 ###
 
-<h1 align="center">👋 Olá! Eu sou o Ryan Vieira!</h1>
+<h1 align="center">👋 Olá! Eu me chamo Ryan Vieira!</h1>
 
 ###
 
