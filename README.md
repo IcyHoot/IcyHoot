@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">🎓 Estudante do último ano do Ensino Médio com curso técnico em Desenvolvimento de Sistemas<br>💻 Apaixonado por tecnologia e programação desde pequeno<br>🧠 Foco principal em Back-end e desenvolvimento de soluções eficientes</p>
+<p align="left">🎓 Técnico em Desenvolvimento de Sistemas<br>💻 Apaixonado por tecnologia e programação<br>🧠 Foco principal em Back-end e desenvolvimento de soluções eficientes</p>
 
 ###
 
