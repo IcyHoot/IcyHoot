@@ -6,7 +6,7 @@
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="25" alt="python logo"  />
-  <img width="3" />
+  <img width="1" />
   <img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="25" alt="cplusplus logo"  />
   <img width="3" />
   <img src="https://img.shields.io/badge/Lua-2C2D72?logo=lua&logoColor=white&style=for-the-badge" height="25" alt="lua logo"  />
