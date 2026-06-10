@@ -33,6 +33,6 @@
 
 ###
 
-<p align="center">Currently Studyin System's Analysis & Development.<br>Focused on Web Development and Low Level Programming.</p>
+<p align="center">Currently studying System's Analysis & Development.<br>Focused on Web Development and Low Level Programming.</p>
 
 ###
