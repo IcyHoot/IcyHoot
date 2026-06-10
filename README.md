@@ -36,9 +36,3 @@
 <p align="center">Currently Studyin System's Analysis & Development.<br>Focused on Web Development and Low Level Programming.</p>
 
 ###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/IcyHoot/IcyHoot/activity-graph-output/activity-graph.svg" height="300" alt="activity-graph graph"  />
-</div>
-
-###
